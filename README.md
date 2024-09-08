@@ -14,6 +14,9 @@ pnpm dev
 bun dev
 ```
 
+![image](https://github.com/user-attachments/assets/a9d27c2c-1c12-4078-877c-eaa9375b42c2)
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
